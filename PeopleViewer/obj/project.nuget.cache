@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nwGYGAfEpN2mchjPRvNYecG/PvZke3noQXXEcNfw2NAPG9Ke8VLve7bRvEttlGXyWv642X70jMpQrw8hWp1/Gg==",
+  "success": true,
+  "projectFilePath": "C:\\c#\\interface\\net50\\module3\\before\\Extensibility\\PeopleViewer\\PeopleViewer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paulk\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

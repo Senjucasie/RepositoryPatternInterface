@@ -1,0 +1,12 @@
+C:\c#\interface\net50\module3\before\Extensibility\PersonReader.Interface\bin\Debug\net5.0\PersonReader.Interface.deps.json
+C:\c#\interface\net50\module3\before\Extensibility\PersonReader.Interface\bin\Debug\net5.0\PersonReader.Interface.dll
+C:\c#\interface\net50\module3\before\Extensibility\PersonReader.Interface\bin\Debug\net5.0\ref\PersonReader.Interface.dll
+C:\c#\interface\net50\module3\before\Extensibility\PersonReader.Interface\bin\Debug\net5.0\PersonReader.Interface.pdb
+C:\c#\interface\net50\module3\before\Extensibility\PersonReader.Interface\obj\Debug\net5.0\PersonReader.Interface.csproj.AssemblyReference.cache
+C:\c#\interface\net50\module3\before\Extensibility\PersonReader.Interface\obj\Debug\net5.0\PersonReader.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\interface\net50\module3\before\Extensibility\PersonReader.Interface\obj\Debug\net5.0\PersonReader.Interface.AssemblyInfoInputs.cache
+C:\c#\interface\net50\module3\before\Extensibility\PersonReader.Interface\obj\Debug\net5.0\PersonReader.Interface.AssemblyInfo.cs
+C:\c#\interface\net50\module3\before\Extensibility\PersonReader.Interface\obj\Debug\net5.0\PersonReader.Interface.csproj.CoreCompileInputs.cache
+C:\c#\interface\net50\module3\before\Extensibility\PersonReader.Interface\obj\Debug\net5.0\PersonReader.Interface.dll
+C:\c#\interface\net50\module3\before\Extensibility\PersonReader.Interface\obj\Debug\net5.0\ref\PersonReader.Interface.dll
+C:\c#\interface\net50\module3\before\Extensibility\PersonReader.Interface\obj\Debug\net5.0\PersonReader.Interface.pdb
