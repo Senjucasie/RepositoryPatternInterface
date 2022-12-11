@@ -1,0 +1,15 @@
+C:\c#\RepositoryPatternInterface\PersonReader.Service\bin\Debug\net5.0\PersonReader.Service.deps.json
+C:\c#\RepositoryPatternInterface\PersonReader.Service\bin\Debug\net5.0\PersonReader.Service.dll
+C:\c#\RepositoryPatternInterface\PersonReader.Service\bin\Debug\net5.0\ref\PersonReader.Service.dll
+C:\c#\RepositoryPatternInterface\PersonReader.Service\bin\Debug\net5.0\PersonReader.Service.pdb
+C:\c#\RepositoryPatternInterface\PersonReader.Service\bin\Debug\net5.0\PersonReader.Interface.dll
+C:\c#\RepositoryPatternInterface\PersonReader.Service\bin\Debug\net5.0\PersonReader.Interface.pdb
+C:\c#\RepositoryPatternInterface\PersonReader.Service\obj\Debug\net5.0\PersonReader.Service.csproj.AssemblyReference.cache
+C:\c#\RepositoryPatternInterface\PersonReader.Service\obj\Debug\net5.0\PersonReader.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\RepositoryPatternInterface\PersonReader.Service\obj\Debug\net5.0\PersonReader.Service.AssemblyInfoInputs.cache
+C:\c#\RepositoryPatternInterface\PersonReader.Service\obj\Debug\net5.0\PersonReader.Service.AssemblyInfo.cs
+C:\c#\RepositoryPatternInterface\PersonReader.Service\obj\Debug\net5.0\PersonReader.Service.csproj.CoreCompileInputs.cache
+C:\c#\RepositoryPatternInterface\PersonReader.Service\obj\Debug\net5.0\PersonReader.Service.csproj.CopyComplete
+C:\c#\RepositoryPatternInterface\PersonReader.Service\obj\Debug\net5.0\PersonReader.Service.dll
+C:\c#\RepositoryPatternInterface\PersonReader.Service\obj\Debug\net5.0\ref\PersonReader.Service.dll
+C:\c#\RepositoryPatternInterface\PersonReader.Service\obj\Debug\net5.0\PersonReader.Service.pdb

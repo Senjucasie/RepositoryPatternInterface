@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "PersonReader.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/PersonReader.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PersonReader.Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PersonReader.Interface/1.0.0": {
+      "type": "project",
+      "path": "../PersonReader.Interface/PersonReader.Interface.csproj",
+      "msbuildProject": "../PersonReader.Interface/PersonReader.Interface.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "PersonReader.Interface >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\paulk\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\c#\\RepositoryPatternInterface\\PersonReader.CSV\\PersonReader.CSV.csproj",
+      "projectName": "PersonReader.CSV",
+      "projectPath": "C:\\c#\\RepositoryPatternInterface\\PersonReader.CSV\\PersonReader.CSV.csproj",
+      "packagesPath": "C:\\Users\\paulk\\.nuget\\packages\\",
+      "outputPath": "C:\\c#\\RepositoryPatternInterface\\PersonReader.CSV\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\paulk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\c#\\RepositoryPatternInterface\\PersonReader.Interface\\PersonReader.Interface.csproj": {
+              "projectPath": "C:\\c#\\RepositoryPatternInterface\\PersonReader.Interface\\PersonReader.Interface.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

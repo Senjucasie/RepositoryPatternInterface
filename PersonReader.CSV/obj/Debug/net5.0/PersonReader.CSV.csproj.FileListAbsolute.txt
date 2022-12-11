@@ -1,0 +1,15 @@
+C:\c#\RepositoryPatternInterface\PersonReader.CSV\bin\Debug\net5.0\PersonReader.CSV.deps.json
+C:\c#\RepositoryPatternInterface\PersonReader.CSV\bin\Debug\net5.0\PersonReader.CSV.dll
+C:\c#\RepositoryPatternInterface\PersonReader.CSV\bin\Debug\net5.0\ref\PersonReader.CSV.dll
+C:\c#\RepositoryPatternInterface\PersonReader.CSV\bin\Debug\net5.0\PersonReader.CSV.pdb
+C:\c#\RepositoryPatternInterface\PersonReader.CSV\bin\Debug\net5.0\PersonReader.Interface.dll
+C:\c#\RepositoryPatternInterface\PersonReader.CSV\bin\Debug\net5.0\PersonReader.Interface.pdb
+C:\c#\RepositoryPatternInterface\PersonReader.CSV\obj\Debug\net5.0\PersonReader.CSV.csproj.AssemblyReference.cache
+C:\c#\RepositoryPatternInterface\PersonReader.CSV\obj\Debug\net5.0\PersonReader.CSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\RepositoryPatternInterface\PersonReader.CSV\obj\Debug\net5.0\PersonReader.CSV.AssemblyInfoInputs.cache
+C:\c#\RepositoryPatternInterface\PersonReader.CSV\obj\Debug\net5.0\PersonReader.CSV.AssemblyInfo.cs
+C:\c#\RepositoryPatternInterface\PersonReader.CSV\obj\Debug\net5.0\PersonReader.CSV.csproj.CoreCompileInputs.cache
+C:\c#\RepositoryPatternInterface\PersonReader.CSV\obj\Debug\net5.0\PersonReader.CSV.csproj.CopyComplete
+C:\c#\RepositoryPatternInterface\PersonReader.CSV\obj\Debug\net5.0\PersonReader.CSV.dll
+C:\c#\RepositoryPatternInterface\PersonReader.CSV\obj\Debug\net5.0\ref\PersonReader.CSV.dll
+C:\c#\RepositoryPatternInterface\PersonReader.CSV\obj\Debug\net5.0\PersonReader.CSV.pdb

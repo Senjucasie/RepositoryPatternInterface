@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "19/9QIZsgs7ZA5HUPuIWVsPtQnml/JszI/KTpGjpSCtTPhMdFbQQVdM+bMTzRBIjkAnxyd2uWubyP4dlFbR8tw==",
+  "dgSpecHash": "N5+0yYDOZiDVfCBmvV0Mjhx7Y0U3xO7bfUElaGh0R2MUHVBn+osbgDrsHrBQmZ7u6r1WZ7yrRyM7MAG8DJssMw==",
   "success": true,
-  "projectFilePath": "C:\\c#\\interface\\net50\\module3\\before\\Extensibility\\People.Service\\People.Service.csproj",
+  "projectFilePath": "C:\\c#\\RepositoryPatternInterface\\People.Service\\People.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\paulk\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\paulk\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

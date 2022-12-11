@@ -1,0 +1,15 @@
+C:\c#\RepositoryPatternInterface\PersonReader.SQL\bin\Debug\net5.0\PersonReader.SQL.deps.json
+C:\c#\RepositoryPatternInterface\PersonReader.SQL\bin\Debug\net5.0\PersonReader.SQL.dll
+C:\c#\RepositoryPatternInterface\PersonReader.SQL\bin\Debug\net5.0\ref\PersonReader.SQL.dll
+C:\c#\RepositoryPatternInterface\PersonReader.SQL\bin\Debug\net5.0\PersonReader.SQL.pdb
+C:\c#\RepositoryPatternInterface\PersonReader.SQL\bin\Debug\net5.0\PersonReader.Interface.dll
+C:\c#\RepositoryPatternInterface\PersonReader.SQL\bin\Debug\net5.0\PersonReader.Interface.pdb
+C:\c#\RepositoryPatternInterface\PersonReader.SQL\obj\Debug\net5.0\PersonReader.SQL.csproj.AssemblyReference.cache
+C:\c#\RepositoryPatternInterface\PersonReader.SQL\obj\Debug\net5.0\PersonReader.SQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\RepositoryPatternInterface\PersonReader.SQL\obj\Debug\net5.0\PersonReader.SQL.AssemblyInfoInputs.cache
+C:\c#\RepositoryPatternInterface\PersonReader.SQL\obj\Debug\net5.0\PersonReader.SQL.AssemblyInfo.cs
+C:\c#\RepositoryPatternInterface\PersonReader.SQL\obj\Debug\net5.0\PersonReader.SQL.csproj.CoreCompileInputs.cache
+C:\c#\RepositoryPatternInterface\PersonReader.SQL\obj\Debug\net5.0\PersonReader.SQL.csproj.CopyComplete
+C:\c#\RepositoryPatternInterface\PersonReader.SQL\obj\Debug\net5.0\PersonReader.SQL.dll
+C:\c#\RepositoryPatternInterface\PersonReader.SQL\obj\Debug\net5.0\ref\PersonReader.SQL.dll
+C:\c#\RepositoryPatternInterface\PersonReader.SQL\obj\Debug\net5.0\PersonReader.SQL.pdb
