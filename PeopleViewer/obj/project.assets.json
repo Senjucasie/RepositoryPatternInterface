@@ -413,6 +413,22 @@
           "bin/placeholder/PersonReader.Interface.dll": {}
         }
       },
+      "PersonReader.Library/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "PersonReader.CSV": "1.0.0",
+          "PersonReader.Interface": "1.0.0",
+          "PersonReader.SQL": "1.0.0",
+          "PersonReader.Service": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PersonReader.Library.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PersonReader.Library.dll": {}
+        }
+      },
       "PersonReader.Service/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -1031,6 +1047,11 @@
       "path": "../PersonReader.Interface/PersonReader.Interface.csproj",
       "msbuildProject": "../PersonReader.Interface/PersonReader.Interface.csproj"
     },
+    "PersonReader.Library/1.0.0": {
+      "type": "project",
+      "path": "../PersonReader.Library/PersonReader.Library.csproj",
+      "msbuildProject": "../PersonReader.Library/PersonReader.Library.csproj"
+    },
     "PersonReader.Service/1.0.0": {
       "type": "project",
       "path": "../PersonReader.Service/PersonReader.Service.csproj",
@@ -1046,6 +1067,7 @@
     "net5.0": [
       "PersonReader.CSV >= 1.0.0",
       "PersonReader.Interface >= 1.0.0",
+      "PersonReader.Library >= 1.0.0",
       "PersonReader.SQL >= 1.0.0",
       "PersonReader.Service >= 1.0.0"
     ]
@@ -1087,6 +1109,9 @@
             },
             "C:\\c#\\RepositoryPatternInterface\\PersonReader.Interface\\PersonReader.Interface.csproj": {
               "projectPath": "C:\\c#\\RepositoryPatternInterface\\PersonReader.Interface\\PersonReader.Interface.csproj"
+            },
+            "C:\\c#\\RepositoryPatternInterface\\PersonReader.Library\\PersonReader.Library.csproj": {
+              "projectPath": "C:\\c#\\RepositoryPatternInterface\\PersonReader.Library\\PersonReader.Library.csproj"
             },
             "C:\\c#\\RepositoryPatternInterface\\PersonReader.Service\\PersonReader.Service.csproj": {
               "projectPath": "C:\\c#\\RepositoryPatternInterface\\PersonReader.Service\\PersonReader.Service.csproj"

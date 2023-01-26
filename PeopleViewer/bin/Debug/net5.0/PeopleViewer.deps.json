@@ -35,6 +35,7 @@
         "dependencies": {
           "PersonReader.CSV": "1.0.0",
           "PersonReader.Interface": "1.0.0",
+          "PersonReader.Library": "1.0.0",
           "PersonReader.SQL": "1.0.0",
           "PersonReader.Service": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
@@ -624,6 +625,20 @@
         },
         "compile": {
           "PersonReader.Interface.dll": {}
+        }
+      },
+      "PersonReader.Library/1.0.0": {
+        "dependencies": {
+          "PersonReader.CSV": "1.0.0",
+          "PersonReader.Interface": "1.0.0",
+          "PersonReader.SQL": "1.0.0",
+          "PersonReader.Service": "1.0.0"
+        },
+        "runtime": {
+          "PersonReader.Library.dll": {}
+        },
+        "compile": {
+          "PersonReader.Library.dll": {}
         }
       },
       "PersonReader.Service/1.0.0": {
@@ -2572,6 +2587,11 @@
       "sha512": ""
     },
     "PersonReader.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PersonReader.Library/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

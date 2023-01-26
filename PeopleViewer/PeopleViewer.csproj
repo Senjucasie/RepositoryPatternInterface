@@ -8,6 +8,7 @@
   <ItemGroup>
     <ProjectReference Include="..\PersonReader.CSV\PersonReader.CSV.csproj" />
     <ProjectReference Include="..\PersonReader.Interface\PersonReader.Interface.csproj" />
+    <ProjectReference Include="..\PersonReader.Library\PersonReader.Library.csproj" />
     <ProjectReference Include="..\PersonReader.Service\PersonReader.Service.csproj" />
     <ProjectReference Include="..\PersonReader.SQL\PersonReader.SQL.csproj" />
   </ItemGroup>

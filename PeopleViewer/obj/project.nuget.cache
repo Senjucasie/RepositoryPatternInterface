@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "MUgUIcBDbcOKDgZHK9uTQstvNlom/EXIzJWKx5IFWW2uGyqF9nxrpMW3rQXSTiTGoQ4fXa9ZbdX5DhWFJo+xZg==",
+  "dgSpecHash": "0izJDvws1rq/Wp/55nLfKujwZBc9uPimX0BMLhzVFPJ5uqBX2hRkeGpck5r2TyIrmtkdZM1Xkunxu4FlGpB6gw==",
   "success": true,
   "projectFilePath": "C:\\c#\\RepositoryPatternInterface\\PeopleViewer\\PeopleViewer.csproj",
   "expectedPackageFiles": [
